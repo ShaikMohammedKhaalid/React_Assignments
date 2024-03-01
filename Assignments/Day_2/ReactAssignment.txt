@@ -1,0 +1,15 @@
+1)In React, keys serve as string attributes utilized when generating lists of elements, 
+aiding in the identification of items within the list that have been altered, updated, or removed.
+
+  let resultsArray = usersArray.map((item, index) => {
+        const arr = [];
+for (let i = 0; i < item.rating; i++) {
+    arr.push(
+                    <>⭐</>
+    );
+}
+
+2)
+From the public 
+<img width="20px" src="./New folder/se.png"></img>
+
